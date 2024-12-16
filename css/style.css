@@ -1,0 +1,18 @@
+.cardAnimation:hover{
+    transform: scale(1.01);
+    box-shadow:gray 5px 5px 5px 5px; 
+    z-index:1;
+}
+
+.divShadow{
+    box-shadow:gray 5px 5px 10px ; 
+}
+/*
+.rateValue{
+     transform: translate(-20px,-20px);
+} 
+*/
+
+.body-color{
+    background-color: antiquewhite !important;
+}
